@@ -1,4 +1,4 @@
-UAS Metode Numerik - Bab 11: Matriks Khusus & Metode Gauss-Seidel
+ Metode Numerik - Bab 11: Matriks Khusus & Metode Gauss-Seidel
 
 Repositori ini dibuat untuk memenuhi tugas mata kuliah Metode Numerik. Seluruh penyelesaian soal mengacu pada Bab 11 buku teks Numerical Methods for Engineers.
 
